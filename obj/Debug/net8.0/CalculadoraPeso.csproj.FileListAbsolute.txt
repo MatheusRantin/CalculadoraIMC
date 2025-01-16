@@ -1,0 +1,14 @@
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/bin/Debug/net8.0/CalculadoraPeso
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/bin/Debug/net8.0/CalculadoraPeso.deps.json
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/bin/Debug/net8.0/CalculadoraPeso.runtimeconfig.json
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/bin/Debug/net8.0/CalculadoraPeso.dll
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/bin/Debug/net8.0/CalculadoraPeso.pdb
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/CalculadoraPeso.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/CalculadoraPeso.AssemblyInfoInputs.cache
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/CalculadoraPeso.AssemblyInfo.cs
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/CalculadoraPeso.csproj.CoreCompileInputs.cache
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/CalculadoraPeso.dll
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/refint/CalculadoraPeso.dll
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/CalculadoraPeso.pdb
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/CalculadoraPeso.genruntimeconfig.cache
+/home/matheus-rantin/Área de trabalho/ProjetosCS/CalculadoraPeso/obj/Debug/net8.0/ref/CalculadoraPeso.dll
